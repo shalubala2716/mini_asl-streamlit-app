@@ -1,5 +1,5 @@
 streamlit
-tensorflow
-opencv-python-headless
+requests
 numpy
+opencv-python-headless
 pillow
